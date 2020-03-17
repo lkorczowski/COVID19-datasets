@@ -8,8 +8,10 @@ Datasets are currently segmented by geography, but feel free to propose another 
 
 * **Worldwide**
 	1.  [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19). Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering. Aggregating several raw sources of the section below.
-	2. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). The Kaggle initiative to find data-based answers on the desease.
-	3. [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) `individual`
+	2. [datasets/covid-19](https://github.com/datasets/covid-19). CSSEGISandData/COVID-19 normalized, unpivoted and transfered dates to be more machine readable.
+	2. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). The Kaggle initiative to find data-based answers on the desease. `individual`
+	3. [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) `individual` (.csv)
+	4. [Geographic distribution of COVID-19 cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide). (.xlsx)
 
 * **Asia**
 	1. TBC
@@ -18,17 +20,19 @@ Datasets are currently segmented by geography, but feel free to propose another 
 	1. TBC
 
 * **Europe**
+	1. EUROPE 
 	1. FRANCE [opencovid19-fr/data](https://github.com/opencovid19-fr/data). Aggregation of the `regional` french data.
-	2. FRANCE [lperez31/coronavirus-france-dataset](https://github.com/lperez31/coronavirus-france-dataset). `individual` french data.
+	2. FRANCE [lperez31/coronavirus-france-dataset](https://github.com/lperez31/coronavirus-france-dataset). aggregated `individual` french data.
+	3. FRANCE [Confirmed cased per region](https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/). `individual` official french gouvernement. (.csv, .svg)
 
 
 ## Raw sources
 Data not aggregated nor ready for analysis (e.g. press release)
 
 * **Worldwide**
-	2. World Health Organization (WHO): https://www.who.int/
-	3. DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia. 
-	4. BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  
+	1. World Health Organization (WHO): https://www.who.int/
+	1. DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia. 
+	1. BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  
 
 * **Asia**
 	1. National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml 
