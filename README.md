@@ -67,6 +67,8 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 * **Python**
 	1. [COVID-19](https://github.com/DmitrySerg/COVID-19). "combining two general strategies to infection modelling: using Susceptible-Infectious-Recovered/Removed (SIR) model". {`COVID19`, `ML`}
 	2. [EndemicPy](https://github.com/j-i-l/EndemicPy). "Python package to simulate a vast range of transmission processes on various structures". {`epidemiology`, `ML`}
+	3. [scispaCy](https://allenai.github.io/scispacy/) spaCy models for processing biomedical, scientific or clinical text.
+	4. [scibert](https://github.com/allenai/scibert) A Pretrained Language Model for Scientific Text
 
 * **javascript**
 	1. [coronavirus-api](https://github.com/aitahtman/coronavirus-api). "api dedicated to serve Coronavirus data"
