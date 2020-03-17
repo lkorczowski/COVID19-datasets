@@ -1,5 +1,5 @@
 # COVID19-datasets
-List of all public datasets and interesting ressources on COVID19. This list is not exhaustive. If you find something new please, fork this repository, commit your update, and do a pull-request. You'll find interesting ressources for epidemiologic data analysis (ML algorithms, visualization, litterature, etc.) in the sections below.
+List of all public datasets and interesting ressources on COVID19-desease (caused by virus strain SARS-CoV-2, a.k.a 2019-nCoV). This list is not exhaustive. If you find something new please, fork this repository, commit your update, and do a pull-request. You'll find interesting ressources for epidemiologic data analysis (ML algorithms, visualization, litterature, etc.) in the sections below.
 
 
 ## Datasets
