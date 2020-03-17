@@ -12,6 +12,7 @@ Datasets are currently segmented by geography, but feel free to propose another 
 	2. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). The Kaggle initiative to find data-based answers on the desease. Also available on [semanticscholar](https://pages.semanticscholar.org/coronavirus-research) `individual`
 	3. [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) `individual` (.csv)
 	4. [Geographic distribution of COVID-19 cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide). (.xlsx)
+	5. [Dimensions COVID-19](https://docs.google.com/spreadsheets/d/1-kTZJZ1GAhJ2m4GAIhw1ZdlgO46JpvX0ZQa232VWRmw/edit#gid=2119699907). List several datasets used in accademics litteratures.
 
 * **Asia**
 	1. SOUTH KOREA [jihoo-kim/Coronavirus-Dataset](https://github.com/jihoo-kim/Coronavirus-Dataset) `individual`. also on [kaggle](https://www.kaggle.com/kimjihoo/coronavirusdataset)
