@@ -9,7 +9,7 @@ Datasets are currently segmented by geography, but feel free to propose another 
 * **Worldwide**
 	1.  [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19). Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering. Aggregating several raw sources of the section below. `nationwide` daily reports and timeseries (.csv)
 	2. [datasets/covid-19](https://github.com/datasets/covid-19). CSSEGISandData/COVID-19 normalized, unpivoted and transfered dates to be more machine readable.
-	2. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). The Kaggle initiative to find data-based answers on the desease. `individual`
+	2. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). The Kaggle initiative to find data-based answers on the desease. Also available on [semanticscholar](https://pages.semanticscholar.org/coronavirus-research) `individual`
 	3. [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) `individual` (.csv)
 	4. [Geographic distribution of COVID-19 cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide). (.xlsx)
 
