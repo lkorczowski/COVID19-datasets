@@ -7,11 +7,12 @@ List of all public datasets and interesting ressources on COVID19-desease (cause
 Datasets are currently segmented by geography, but feel free to propose another organization if needed (open an issue). Please try to list first the aggregating datasets. You can use keywords for the spatial resolution (e.g. `nationwide`, `regional`, `individual`, etc.)
 
 * **Worldwide**
-	1.  [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19). Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering. Aggregating several raw sources of the section below. `nationwide` daily reports and timeseries (.csv)
+	1. [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19). Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering. Aggregating several raw sources of the section below. `nationwide` daily reports and timeseries (.csv)
 	2. [datasets/covid-19](https://github.com/datasets/covid-19). CSSEGISandData/COVID-19 normalized, unpivoted and transfered dates to be more machine readable (.csv).
 	2. [pomber/covid19](https://github.com/pomber/covid19). CSSEGISandData/COVID-19 in JSON. Used by several other projects.
 	2. [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). The Kaggle initiative to find data-based answers on the desease. Also available on [semanticscholar](https://pages.semanticscholar.org/coronavirus-research) `individual`
 	3. [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) `individual` (.csv)
+	3. [Corona Data Scraper](https://coronadatascraper.com/). Pulls COVID-19 Coronavirus case data from verified sources (.json, .csv). Join the [slack](https://sars-cov-2covid-19.slack.com/join/shared_invite/zt-cr6ln0ph-6eDATfSUNDtFK3mlQxqYKw) in  #scraper-dev.
 	4. [Geographic distribution of COVID-19 cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide). (.xlsx)
 	5. [Dimensions COVID-19](https://docs.google.com/spreadsheets/d/1-kTZJZ1GAhJ2m4GAIhw1ZdlgO46JpvX0ZQa232VWRmw/edit#gid=2119699907). List several datasets used in accademics litteratures.
 
