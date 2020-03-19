@@ -16,7 +16,7 @@ Datasets are currently segmented by geography, but feel free to propose another 
 	5. [Dimensions COVID-19](https://docs.google.com/spreadsheets/d/1-kTZJZ1GAhJ2m4GAIhw1ZdlgO46JpvX0ZQa232VWRmw/edit#gid=2119699907). List several datasets used in accademics litteratures.
 
 * **Asia**
-	1. SOUTH KOREA [jihoo-kim/Coronavirus-Dataset](https://github.com/jihoo-kim/Coronavirus-Dataset) `individual`. also on [kaggle](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+	1. SOUTH KOREA [jihoo-kim/Coronavirus-Dataset](https://github.com/jihoo-kim/Coronavirus-Dataset) `individual`. also on [kaggle](https://www.kaggle.com/kimjihoo/coronavirusdataset) 
 
 * **North America**
 	1. TBC
@@ -26,6 +26,7 @@ Datasets are currently segmented by geography, but feel free to propose another 
 	2. FRANCE [lperez31/coronavirus-france-dataset](https://github.com/lperez31/coronavirus-france-dataset). aggregated `individual` french data. also on [kaggle](https://www.kaggle.com/lperez/coronavirus-france-dataset)
 	3. FRANCE [Confirmed cased per region](https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/). `individual` official french gouvernement. (.csv, .svg)
 	4. FRANCE [Interventions on suspicous case of COVID-19](https://www.data.gouv.fr/fr/organizations/sante-publique-france/). Three datasets: Medical acts, Hospitalisation rate and urgency rate (.csv, .ods, .xlsx)
+	5. ITALY [covid19-in-italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy) Kaggle with italian `individual`data. So also the [github pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19)
 
 ## Raw sources
 Data not aggregated nor ready for analysis (e.g. press release)
