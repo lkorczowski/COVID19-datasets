@@ -64,6 +64,7 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 * **R**
 	1. [EpiEstim: Estimate Time Varying Reproduction Numbers from Epidemic Curves](https://cran.r-project.org/web/packages/EpiEstim/index.html). {`epidemiology`, `ML`}
 	2. [COVID-19 epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/). Visualization of CSSEGISandData datasets + scraping wikipedia data. {`COVID19`, `visualization`}
+	3. [HospiCov](https://github.com/PascalCrepey/HospiCoV). estimate hospital resources required to treat patients infected by SARS-CoV-2. Related paper: [Forecasting short term hospital needs in France. 2020.](https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf.)
 
 * **Python**
 	1. [COVID-19](https://github.com/DmitrySerg/COVID-19). "combining two general strategies to infection modelling: using Susceptible-Infectious-Recovered/Removed (SIR) model". {`COVID19`, `ML`}
