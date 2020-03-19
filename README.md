@@ -25,7 +25,7 @@ Datasets are currently segmented by geography, but feel free to propose another 
 	1. FRANCE [opencovid19-fr/data](https://github.com/opencovid19-fr/data). Aggregation of the `regional` french data.
 	2. FRANCE [lperez31/coronavirus-france-dataset](https://github.com/lperez31/coronavirus-france-dataset). aggregated `individual` french data. also on [kaggle](https://www.kaggle.com/lperez/coronavirus-france-dataset)
 	3. FRANCE [Confirmed cased per region](https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/). `individual` official french gouvernement. (.csv, .svg)
-
+	4. FRANCE [Interventions on suspicous case of COVID-19](https://www.data.gouv.fr/fr/organizations/sante-publique-france/). Three datasets: Medical acts, Hospitalisation rate and urgency rate (.csv, .ods, .xlsx)
 
 ## Raw sources
 Data not aggregated nor ready for analysis (e.g. press release)
@@ -64,7 +64,7 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 * **R**
 	1. [EpiEstim: Estimate Time Varying Reproduction Numbers from Epidemic Curves](https://cran.r-project.org/web/packages/EpiEstim/index.html). {`epidemiology`, `ML`}
 	2. [COVID-19 epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/). Visualization of CSSEGISandData datasets + scraping wikipedia data. {`COVID19`, `visualization`}
-	3. [HospiCov](https://github.com/PascalCrepey/HospiCoV). estimate hospital resources required to treat patients infected by SARS-CoV-2. Related paper: [Forecasting short term hospital needs in France. 2020.](https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf.)
+	3. [HospiCov](https://github.com/PascalCrepey/HospiCoV). estimate hospital resources required to treat patients infected by SARS-CoV-2. Related paper: [Forecasting short term hospital needs in France. 2020.](https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf)
 
 * **Python**
 	1. [COVID-19](https://github.com/DmitrySerg/COVID-19). "combining two general strategies to infection modelling: using Susceptible-Infectious-Recovered/Removed (SIR) model". {`COVID19`, `ML`}
@@ -81,3 +81,4 @@ There is so much accademic/non-accedemic publications that it is difficult to li
 
 1.  A spatial model of CoVID-19 transmission in England and Wales: early spread and peak timing. Leon Danon, Ellen Brooks-Pollock, Mick Bailey, Matt J Keeling. medRxiv 2020.02.12.20022566; doi: https://doi.org/10.1101/2020.02.12.20022566 
 2. COVID-19: Forecasting short term hospital needs in France. Massonnaud, C., Roux, J., Crépey P.. https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf
+3. Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
