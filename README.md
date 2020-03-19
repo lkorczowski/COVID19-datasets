@@ -27,6 +27,7 @@ Datasets are currently segmented by geography, but feel free to propose another 
 	3. FRANCE [Confirmed cased per region](https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/). `individual` official french gouvernement. (.csv, .svg)
 	4. FRANCE [Interventions on suspicous case of COVID-19](https://www.data.gouv.fr/fr/organizations/sante-publique-france/). Three datasets: Medical acts, Hospitalisation rate and urgency rate (.csv, .ods, .xlsx)
 	5. ITALY [covid19-in-italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy) Kaggle with italian `individual`data. So also the [github pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19)
+	6. SPAIN [Situación epidemiológica del coronavirus (COVID-19) en Castilla y León ](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/)
 
 ## Raw sources
 Data not aggregated nor ready for analysis (e.g. press release)
