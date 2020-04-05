@@ -69,7 +69,7 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 	2. [COVID-19 epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/). Visualization of CSSEGISandData datasets + scraping wikipedia data. {`COVID19`, `visualization`}
 	3. [HospiCov](https://github.com/PascalCrepey/HospiCoV). estimate hospital resources required to treat patients infected by SARS-CoV-2. Related paper: [Forecasting short term hospital needs in France. 2020.](https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf)
 	4. [epiforecasts/EpiNow](https://github.com/epiforecasts/EpiNow) Estimate Realtime Case Counts and Time-varying Epidemiological Parameters https://www.epiforecasts.io/EpiNow
-	5. [thibautjombart/covid19_bed_occupancy ](https://github.com/thibautjombart/covid19_bed_occupancy) Shiny app providing estimates of future bed occupancy given recent admissions https://cmmid-lshtm.shinyapps.io/hospital_bed_occupancy_projections/
+	5. [thibautjombart/covid19_bed_occupancy](https://github.com/thibautjombart/covid19_bed_occupancy) Shiny app providing estimates of future bed occupancy given recent admissions https://cmmid-lshtm.shinyapps.io/hospital_bed_occupancy_projections/
 
 
 * **Python**
@@ -77,6 +77,7 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 	2. [EndemicPy](https://github.com/j-i-l/EndemicPy). "Python package to simulate a vast range of transmission processes on various structures". {`epidemiology`, `ML`}
 	3. [scispaCy](https://allenai.github.io/scispacy/) spaCy models for processing biomedical, scientific or clinical text.
 	4. [scibert](https://github.com/allenai/scibert) A Pretrained Language Model for Scientific Text
+	5. [scrouzet/covid19-incrementality](https://github.com/scrouzet/covid19-incrementality) quantify global death increase due to COVID-19 in France at the department level
 
 * **javascript**
 	1. [coronavirus-api](https://github.com/aitahtman/coronavirus-api). "api dedicated to serve Coronavirus data"
