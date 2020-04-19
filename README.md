@@ -70,7 +70,7 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 	3. [HospiCov](https://github.com/PascalCrepey/HospiCoV). estimate hospital resources required to treat patients infected by SARS-CoV-2. Related paper: [Forecasting short term hospital needs in France. 2020.](https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf)
 	4. [epiforecasts/EpiNow](https://github.com/epiforecasts/EpiNow) Estimate Realtime Case Counts and Time-varying Epidemiological Parameters https://www.epiforecasts.io/EpiNow
 	5. [thibautjombart/covid19_bed_occupancy](https://github.com/thibautjombart/covid19_bed_occupancy) Shiny app providing estimates of future bed occupancy given recent admissions https://cmmid-lshtm.shinyapps.io/hospital_bed_occupancy_projections/
-
+    6. [sangeetabhatia03/covid19-short-term-forecasts](https://github.com/sangeetabhatia03/covid19-short-term-forecasts) forecast for the daily number of COVID-19 Death in countries with sustained local transmission
 
 * **Python**
 	1. [ImperialCollegeLondon/covid19model](https://github.com/ImperialCollegeLondon/covid19model) Code for modelling estimated deaths and cases for COVID19.
