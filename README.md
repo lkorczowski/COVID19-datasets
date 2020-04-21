@@ -84,6 +84,7 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 	1. [coronavirus-api](https://github.com/aitahtman/coronavirus-api). "api dedicated to serve Coronavirus data"
 	2. [disease](https://github.com/xithiox/disease). "A simple disease spread simulation in p5.js. It can be played [here](https://xithiox.github.io/disease/)." {`epidemiology`, `visualization`}
 	3. [Epidemic Calculator](https://github.com/gabgoh/gabgoh.github.io/tree/master/COVID). a visual calculator for modeling possible paths of COVID19. [index](http://gabgoh.github.io/COVID/index.html)
+	4. [stevenliuyi/covid19](https://github.com/stevenliuyi/covid19) an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries https://covid19.health
 
 ## To be added/Others (unfiltered)
 There is so much accademic/non-accedemic publications that it is difficult to link the different initiatives the ressources. Please add links to publications that relies on datasets or methods not yet public. Before adding elements here, please double check it is not included in another section.
