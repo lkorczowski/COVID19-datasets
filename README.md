@@ -93,6 +93,8 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 * [Rank23/COVID19](https://github.com/Rank23/COVID19) Using Kalman Filter to Predict Corona Virus Spread https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8
 * [tarunk04/COVID-19-CaseStudy-and-Predictions](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions) This repository is a case study, analysis and visualization of COVID-19 Pandemic spread along with prediction models.
 * [therealcyberlord/coronavirus_visualization_and_prediction](https://github.com/therealcyberlord/coronavirus_visualization_and_prediction) tracks the spread of the novel coronavirus, also known as SARS-CoV-2
+* [kieshaprem/covid19-agestructureSEIR-wuhan-social-distancing](https://github.com/kieshaprem/covid19-agestructureSEIR-wuhan-social-distancing) Age-structured SEIR model for COVID-19 outbreak in Wuhan, China
+
 
 ### **javascript**
 * [aitahtman/coronavirus-api](https://github.com/aitahtman/coronavirus-api). "api dedicated to serve Coronavirus data"
