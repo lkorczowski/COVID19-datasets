@@ -89,6 +89,8 @@ Segmented by language for algorithms. Add the relevant keywords in description f
 * [scispaCy](https://allenai.github.io/scispacy/) spaCy models for processing biomedical, scientific or clinical text.
 * [allenai/scibert](https://github.com/allenai/scibert) A Pretrained Language Model for Scientific Text
 * [scrouzet/covid19-incrementality](https://github.com/scrouzet/covid19-incrementality) quantify global death increase due to COVID-19 in France at the department level
+* [Yu-Group/covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) COVID19 data + modeling at the county-level + hospital-level. https://covidseverity.com/ {`COVID19`, `ML`, `prediction`}
+* [Rank23/COVID19](https://github.com/Rank23/COVID19) Using Kalman Filter to Predict Corona Virus Spread https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8
 
 ### **javascript**
 * [aitahtman/coronavirus-api](https://github.com/aitahtman/coronavirus-api). "api dedicated to serve Coronavirus data"
