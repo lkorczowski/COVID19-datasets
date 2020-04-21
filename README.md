@@ -1,6 +1,15 @@
 # COVID19-datasets
 List of all public datasets and interesting ressources on COVID19-desease (caused by virus strain SARS-CoV-2, a.k.a 2019-nCoV). This list is not exhaustive. If you find something new please, fork this repository, commit your update, and do a pull-request. You'll find interesting ressources for epidemiologic data analysis (ML algorithms, visualization, litterature, etc.) in the sections below.
 
+### Table of Content
+1. [Datasets](#datasets)
+2. [Raw Data Sources](#raw-sources)
+3. [Relevant ressources for COVID19 analysis](#relevant-ressources-of-covid19-analysis)
+    * [R](#r)
+    * [Python](#python)
+    * [Javascript](#javascript)
+4. [To be added/Others (unfiltered)](#to-be-addedothers-unfiltered)
+
 
 ## Datasets
 
@@ -59,33 +68,37 @@ Data not aggregated nor ready for analysis (e.g. press release)
 	2. Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 
 
-## Relevant ressources of COVID19 analysis
+## Relevant ressources for COVID19 analysis
 
 Segmented by language for algorithms. Add the relevant keywords in description for the scope of the tools e.g. {`COVID19`, `epidemiology`, `generic`, `ML`, `visualization`}.
 
+### **R**
+* [EpiEstim: Estimate Time Varying Reproduction Numbers from Epidemic Curves](https://cran.r-project.org/web/packages/EpiEstim/index.html). {`epidemiology`, `ML`}
+* [COVID-19 epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/). Visualization of CSSEGISandData datasets + scraping wikipedia data. {`COVID19`, `visualization`}
+* [HospiCov](https://github.com/PascalCrepey/HospiCoV). estimate hospital resources required to treat patients
+ infected by SARS-CoV-2. Related paper: [Forecasting short term hospital needs in France. 2020.](https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf)
+* [epiforecasts/EpiNow](https://github.com/epiforecasts/EpiNow) Estimate Realtime Case Counts and Time-varying Epidemiological Parameters https://www.epiforecasts.io/EpiNow {`COVID19`, `prediction`}
+* [epiforecasts/EpiSoon](https://github.com/epiforecasts/EpiSoon) Forecasting the effective reproduction number over short timescales https://epiforecasts.io/EpiSoon {`COVID19`, `prediction`}
+* [thibautjombart/covid19_bed_occupancy](https://github.com/thibautjombart/covid19_bed_occupancy) Shiny app providing estimates of future bed occupancy given recent admissions https://cmmid-lshtm.shinyapps.io/hospital_bed_occupancy_projections/  {`COVID19`, `prediction`}
+* [sangeetabhatia03/covid19-short-term-forecasts](https://github.com/sangeetabhatia03/covid19-short-term-forecasts) forecast for the daily number of COVID-19 Death in countries with sustained local transmission  {`COVID19`, `prediction`}
 
-* **R**
-	1. [EpiEstim: Estimate Time Varying Reproduction Numbers from Epidemic Curves](https://cran.r-project.org/web/packages/EpiEstim/index.html). {`epidemiology`, `ML`}
-	2. [COVID-19 epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/). Visualization of CSSEGISandData datasets + scraping wikipedia data. {`COVID19`, `visualization`}
-	3. [HospiCov](https://github.com/PascalCrepey/HospiCoV). estimate hospital resources required to treat patients infected by SARS-CoV-2. Related paper: [Forecasting short term hospital needs in France. 2020.](https://www.ea-reperes.com/wp-content/uploads/2020/03/PredictedFrenchHospitNeeds-EHESP-20200316.pdf)
-	4. [epiforecasts/EpiNow](https://github.com/epiforecasts/EpiNow) Estimate Realtime Case Counts and Time-varying Epidemiological Parameters https://www.epiforecasts.io/EpiNow
-	5. [epiforecasts/EpiSoon](https://github.com/epiforecasts/EpiSoon) Forecasting the effective reproduction number over short timescales https://epiforecasts.io/EpiSoon
-	5. [thibautjombart/covid19_bed_occupancy](https://github.com/thibautjombart/covid19_bed_occupancy) Shiny app providing estimates of future bed occupancy given recent admissions https://cmmid-lshtm.shinyapps.io/hospital_bed_occupancy_projections/
-    6. [sangeetabhatia03/covid19-short-term-forecasts](https://github.com/sangeetabhatia03/covid19-short-term-forecasts) forecast for the daily number of COVID-19 Death in countries with sustained local transmission
+### **Python**
+* [ImperialCollegeLondon/covid19model](https://github.com/ImperialCollegeLondon/covid19model) Code for modelling estimated deaths and cases for COVID19.
+* [DmitrySerg/COVID-19](https://github.com/DmitrySerg/COVID-19). "combining two general strategies to infection modelling: using Susceptible-Infectious-Recovered/Removed (SIR) model". {`COVID19`, `ML`}
+* [j-i-l/EndemicPy](https://github.com/j-i-l/EndemicPy). "Python package to simulate a vast range of transmission processes on various structures". {`epidemiology`, `ML`}
+* [scispaCy](https://allenai.github.io/scispacy/) spaCy models for processing biomedical, scientific or clinical text.
+* [allenai/scibert](https://github.com/allenai/scibert) A Pretrained Language Model for Scientific Text
+* [scrouzet/covid19-incrementality](https://github.com/scrouzet/covid19-incrementality) quantify global death increase due to COVID-19 in France at the department level
+* [Yu-Group/covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) COVID19 data + modeling at the county-level + hospital-level. https://covidseverity.com/ {`COVID19`, `ML`, `prediction`}
+* [Rank23/COVID19](https://github.com/Rank23/COVID19) Using Kalman Filter to Predict Corona Virus Spread https://medium.com/@rank23/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8
+* [tarunk04/COVID-19-CaseStudy-and-Predictions](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions) This repository is a case study, analysis and visualization of COVID-19 Pandemic spread along with prediction models.
+* [therealcyberlord/coronavirus_visualization_and_prediction](https://github.com/therealcyberlord/coronavirus_visualization_and_prediction) tracks the spread of the novel coronavirus, also known as SARS-CoV-2
 
-* **Python**
-	1. [ImperialCollegeLondon/covid19model](https://github.com/ImperialCollegeLondon/covid19model) Code for modelling estimated deaths and cases for COVID19.
-	1. [COVID-19](https://github.com/DmitrySerg/COVID-19). "combining two general strategies to infection modelling: using Susceptible-Infectious-Recovered/Removed (SIR) model". {`COVID19`, `ML`}
-	2. [EndemicPy](https://github.com/j-i-l/EndemicPy). "Python package to simulate a vast range of transmission processes on various structures". {`epidemiology`, `ML`}
-	3. [scispaCy](https://allenai.github.io/scispacy/) spaCy models for processing biomedical, scientific or clinical text.
-	4. [scibert](https://github.com/allenai/scibert) A Pretrained Language Model for Scientific Text
-	5. [scrouzet/covid19-incrementality](https://github.com/scrouzet/covid19-incrementality) quantify global death increase due to COVID-19 in France at the department level
-
-* **javascript**
-	1. [coronavirus-api](https://github.com/aitahtman/coronavirus-api). "api dedicated to serve Coronavirus data"
-	2. [disease](https://github.com/xithiox/disease). "A simple disease spread simulation in p5.js. It can be played [here](https://xithiox.github.io/disease/)." {`epidemiology`, `visualization`}
-	3. [Epidemic Calculator](https://github.com/gabgoh/gabgoh.github.io/tree/master/COVID). a visual calculator for modeling possible paths of COVID19. [index](http://gabgoh.github.io/COVID/index.html)
-	4. [stevenliuyi/covid19](https://github.com/stevenliuyi/covid19) an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries https://covid19.health
+### **javascript**
+* [aitahtman/coronavirus-api](https://github.com/aitahtman/coronavirus-api). "api dedicated to serve Coronavirus data"
+* [xithiox/disease](https://github.com/xithiox/disease). "A simple disease spread simulation in p5.js. It can be played [here](https://xithiox.github.io/disease/)." {`epidemiology`, `visualization`}
+* [gabgoh/Epidemic Calculator](https://github.com/gabgoh/gabgoh.github.io/tree/master/COVID). a visual calculator for modeling possible paths of COVID19. [index](http://gabgoh.github.io/COVID/index.html)
+* [stevenliuyi/covid19](https://github.com/stevenliuyi/covid19) an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries https://covid19.health
 
 ## To be added/Others (unfiltered)
 There is so much accademic/non-accedemic publications that it is difficult to link the different initiatives the ressources. Please add links to publications that relies on datasets or methods not yet public. Before adding elements here, please double check it is not included in another section.
